@@ -10,7 +10,8 @@ public class WeatherBean {
 	private String tempMin;
 	private String tempMax;
 	private ArrayList<String> test;
-	
+
+    // test
 
 	public String getCityName() {
 		return cityName;
