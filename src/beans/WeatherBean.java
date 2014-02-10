@@ -11,7 +11,7 @@ public class WeatherBean {
 	private String tempMax;
 	private ArrayList<String> test;
 
-    // test
+    // test modified
 
 	public String getCityName() {
 		return cityName;
